@@ -96,5 +96,5 @@ Top predictors for recipe popularity:
 ## 🛠️ How to Run the Code
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Diegortiz43/Data_Scientist_Certification.git
-   cd Data_Scientist_Certification
+   git clone https://github.com/Diegortiz43/DataCamp_Data_Scientist_Certification.git
+   cd DataCamp_Data_Scientist_Certification
