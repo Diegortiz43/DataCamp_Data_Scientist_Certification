@@ -1,0 +1,64 @@
+# 🐍 Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.ipynb_checkpoints
+.DS_Store
+.env
+.venv
+venv/
+Pipfile
+Pipfile.lock
+poetry.lock
+pyproject.toml
+
+# 🧑‍💻 Jupyter Notebooks
+.ipynb_checkpoints/
+
+# 📂 Large Data Files
+*.csv
+*.tsv
+*.parquet
+*.json
+*.xlsx
+*.feather
+*.h5
+*.db
+*.sqlite
+
+# 🚀 Virtual Environments
+env/
+venv/
+*.env
+
+# ⚙️ Logs & Temporary Files
+logs/
+*.log
+*.out
+*.bak
+nohup.out
+
+# 🛠 IDE and Editor Files
+.vscode/
+*.code-workspace
+*.idea/
+*.sublime-workspace
+
+# 🏗️ Model Artifacts & Serialized Objects
+*.pkl
+*.joblib
+*.h5
+*.onnx
+model/
+models/
+checkpoints/
+
+# 🛠️ MacOS System Files
+.DS_Store
+._*
+
+# 🏗️ Docker & Deployment
+docker-compose.yml
+*.dockerfile
+.env
