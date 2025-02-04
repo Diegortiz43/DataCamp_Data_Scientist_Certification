@@ -1,5 +1,10 @@
 # Predicting Recipe Popularity
 
+📌 **Disclaimer:**  
+This project was completed as part of a DataCamp certification.  
+The dataset and problem statement are inspired by the certification task,  
+but all code, analysis, and insights presented here are my own.  
+
 ## 📌 Project Overview
 This project is part of the **Data Scientist Professional Practical Exam Submission**, where the goal is to **predict which recipes will be popular 80% of the time and minimize the chance of showing unpopular recipes**.
 
